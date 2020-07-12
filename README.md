@@ -1,2 +1,5 @@
 # Calculadora
-Projeto simples, criação de uma calculadora utilizando HTML, CSS e JavaScript 
+
+Criação de uma calculadora usando HTML5, CSS3 e JavaScript.
+
+ 
